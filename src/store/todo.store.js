@@ -9,10 +9,8 @@ export const Filters = {
 const state = {
   todos: [
     new Todo('Comprar pan'),
-    new Todo('Sacar a Nala'),
     new Todo('Hacer el almuerzo'),
     new Todo('Ir al gimnasio'),
-    new Todo('Recoger a Jennyfer'),
   ],
   filter: Filters.All,
 };
