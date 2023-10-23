@@ -11,7 +11,7 @@ If you're interested in use or modify this project you'll find the instructions 
 
 ## Production:
 
-1. Go to the following link:
+1. Go to the following link: https://diegourrego4.github.io/js-todo-list-vite/ and enjoy the app 😊
 
 # App:
 
